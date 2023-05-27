@@ -4,7 +4,7 @@ html {
 
 .corpo {
     min-height: 100%;
-    background-image: url(/imgs/burguer4.jpg);
+    background-image: url(imgs/burguer4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
